@@ -135,7 +135,6 @@ void print_data(char *ptr)
 	if (data == 2)
 		printf(", big endian\n");
 }
-
 /**
  * print_magic - prints magic info.
  * @ptr: magic.
